@@ -18,52 +18,27 @@
 
 #### 系统登录首页
 
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/01.jpg)
+![image](https://github.com/michaelwuyu/haofanlai_dinner/blob/master/images/2.jpg)
 
 #### 项目主要功能模块介绍
 
-1. **登录注册、菜单管理、角色权限管理等**
+1. **首页**
 
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/02.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/03.jpg)
+![image](https://github.com/michaelwuyu/haofanlai_dinner/blob/master/images/3.jpg)
 
-2. **供应商管理：供应商增删改查**
 
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/04.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/05.jpg)
+2. **菜品管理**
 
-3. **进销存：进货、入库、销售**
+![image](https://github.com/michaelwuyu/haofanlai_dinner/blob/master/images/4.jpg)
 
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/06.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/07.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/10.jpg)
+3. **订单列表**
 
-4. **商品管理：商品的增删改查**
+![image](https://github.com/michaelwuyu/haofanlai_dinner/blob/master/images/10.jpg)
 
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/08.jpg)
+4. **用户管理**
 
-5. **商品入库（进货管理）：批量导入、进货单、库存维护。**
+![image](https://github.com/michaelwuyu/haofanlai_dinner/blob/master/images/5.jpg)
 
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/11.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/12.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/13.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/14.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/15.jpg)
+5. **日志分析**
 
-6. **商品销售（出货管理）：出货单、库存维护**
-
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/09.jpg)
-
-7. **统计分析：销量展示（销售金额，退货金额）**
-
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/19.jpg)
-
-8. **批量导入商品**
-
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/21.jpg)
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/22.jpg)
-
-9. **日志分析**
-
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/23.jpg)
-
+![image](https://github.com/michaelwuyu/haofanlai_dinner/blob/master/images/7.jpg)
